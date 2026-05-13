@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.01",
-  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/v1.01/app-release.apk",
-  "releaseNotes": "loading UI",
+  "versionCode": 3,
+  "versionName": "1.02",
+  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/v1.02/app-release.apk",
+  "releaseNotes": "fix recog failed",
   "forceUpdate": true
 }
