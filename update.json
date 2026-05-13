@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.08",
-  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.08/app-release.apk",
-  "releaseNotes": "feat. update",
-  "forceUpdate": false
+  "versionCode": 10,
+  "versionName": "1.1",
+  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.1/app-release.apk",
+  "releaseNotes": "NK狀態倒數5秒",
+  "forceUpdate": true
 }
