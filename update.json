@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.21",
-  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.21/app-release.apk",
-  "releaseNotes": "新增文字泡泡",
+  "versionCode": 14,
+  "versionName": "1.22",
+  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.22/app-release.apk",
+  "releaseNotes": "文字泡泡位置調整",
   "forceUpdate": true
 }
