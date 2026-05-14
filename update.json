@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2",
-  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.2/app-release.apk",
-  "releaseNotes": "實作應用程式更新系統（含自動更新對話框），並在使用者介面（UI）與閒置氣泡（IDLE bubble）中加入『思考中』狀態",
+  "versionCode": 13,
+  "versionName": "1.21",
+  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.21/app-release.apk",
+  "releaseNotes": "新增文字泡泡",
   "forceUpdate": true
 }
