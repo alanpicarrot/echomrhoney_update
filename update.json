@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.32",
-  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.32/app-release.apk",
-  "releaseNotes": "增加手機版面",
+  "versionCode": 19,
+  "versionName": "1.33",
+  "url": "https://github.com/alanpicarrot/echomrhoney_update/releases/download/1.33/app-release.apk",
+  "releaseNotes": "字型調整",
   "forceUpdate": true
 }
